@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "d:\\Обучение\\HelloCode\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "e:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "d:\\Обучение\\HelloCode\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\Обучение\\HelloCode\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "e:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "d:\\Обучение\\HelloCode\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\innoc\\.nuget\\packages\\",
-        "outputPath": "e:\\Обучение\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "d:\\Обучение\\HelloCode\\HelloCode\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\innoc\\AppData\\Roaming\\NuGet\\NuGet.Config"
